@@ -1,0 +1,14 @@
+Brielle Hina CISC442 Project 1
+
+To run functions 1-6:
+go to main.py, original image is set as "lena.png", update line 9 to test different images
+each result will be saved as a PNG file named for that function
+NOTE: function 1 (convolve) only works for black and white images
+
+To run function 7: mosaic
+please go to mosaicTest.py
+mosaicResults are already saved as 4 png files labeled "#mosaicResults.png"
+NOTE: function 7 (mosaic) is still in progress
+
+To test individual functions:
+go to the test file for that function
